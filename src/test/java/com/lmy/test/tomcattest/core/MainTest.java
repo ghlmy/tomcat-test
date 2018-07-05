@@ -6,6 +6,6 @@ package com.lmy.test.tomcattest.core;
  */
 public class MainTest {
     public static void main(String[] args) throws Exception {
-        System.out.println(123);
+        System.out.println("test");
     }
 }
